@@ -1,10 +1,10 @@
 <?php
 /**
-  Plugin Name: AJAX wpveda
-  Plugin URI: https://rtcamp.com/
+  Plugin Name: AJAX wpveda Plugin
+  Plugin URI: https://profiles.wordpress.org/vishalkakadiya/
   Version: 1.0
-  Author: rtCamp
-  Contributor: Vishal Kakadiya (https://rtcamp.com/about/rtcampers/)
+  Author: Vishal Kakadiya
+  Contributor: Vishal Kakadiya (https://profiles.wordpress.org/vishalkakadiya/)
   Description: AJAX demo with the custom table
  */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
